@@ -2,10 +2,10 @@
 Cryptography and Information Security symmetric block cipher assignment with feistel structure and CBC while incorporating finite field arithmetic on GF(2^16)
 
 ## CBC mode Encryption
-<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CBC_encryption.svg/600px-CBC_encryption.svg.png' style="background-color: white;">
+<img src = 'https://www.researchgate.net/publication/215783767/figure/fig1/AS:394138559238144@1470981363092/Cipher-block-chaining-CBC-mode-encryption.png'>
 
 ## Feistel Structure
-<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Feistel_cipher_diagram_en.svg/300px-Feistel_cipher_diagram_en.svg.png' style="background-color: white;">
+<img src = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkfk4uyojkgYBem2xS6VXbt6OU0ORnslRpErY5a9hZPveKP1JDutRfgeDVT3WaSQY4SBKC0Wxqs_WOGFKHsVXPSYKr0VRPMYUDIXDqrBcy709PMIzGqk9MexwymHnWiZ4Kq4vABJ_aInya/s705/Feistel+Cipher+Structure.png'>
 
 ## Encryption - Decryption Process Result:
 <img src = 'results.png'>
