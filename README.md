@@ -1,5 +1,5 @@
 # Symmetric-Block-Cipher (Updated)
-Update: This work would add the use of Hash Message Authentication Code (HMAC), details on the HMAC usage can be accessed in HMAC.ipnyb
+**Update: This work would add the use of Hash Message Authentication Code (HMAC), details on the HMAC usage can be accessed in HMAC.ipnyb**
 
 Cryptography and Information Security symmetric block cipher assignment with feistel structure and CBC while incorporating finite field arithmetic on GF(2^16)
 
